@@ -13,7 +13,7 @@ const App = () => {
     <>
      <View>
        <Text>
-          Roberto!
+        Elizabet II
        </Text>
      </View>
     </>
