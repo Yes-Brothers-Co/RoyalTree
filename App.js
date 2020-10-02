@@ -12,7 +12,9 @@ const App = () => {
   return (
     <>
      <View>
-       Elizabeth II
+       <Text>
+        Elizabeth II
+       </Text>
      </View>
     </>
   );
