@@ -9,9 +9,10 @@ const Slider = ({id}) => {
 
     return(
 
-        <View>
+        <View style = {styles.slider}>
             <Image
                 style = {styles.profileIcon}
+                
                 source  = {
 
                     {uri:data.reali[id].stemma}
@@ -19,7 +20,16 @@ const Slider = ({id}) => {
                 
             >   
             </Image>
-            <Text> {data.reali[id].birthday} </Text>
+            <Image
+                style = {styles.profileIcon}
+                
+                source  = {
+
+                    {uri:data.reali[id].profileIcon}
+                }
+                
+            >   
+            </Image>
         </View>
             
     );
@@ -76,7 +86,12 @@ export const Profile = ({id}) => {
         width: 150,
         height: 150,
 
+    },
+    slider:{
+
+        justifyContent: 'space-between',
     }
+
 
  })
 
