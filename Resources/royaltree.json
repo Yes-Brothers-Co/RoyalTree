@@ -1,0 +1,26 @@
+{
+    "anno": 2020,
+    "lang": "ITA",
+    "reali": {
+      "betta": {
+        "name": "Elizabeth Alexandra Mary",
+        "surname": "Windsor",
+        "birthday": "21 Aprile 1926",
+        "birthplace" : "Mayfair, Londra, UK",
+        "figli": [
+          "Carlo",
+          "Anna",
+          "Andrea",
+          "Edoardo"
+        ],
+        "dataCarica": "6 Febbraio 1952",
+        "predecessore": "Giorgio VI",
+        "heir": "Carlo, principe del Galles",
+        "stemma": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Royal_Coat_of_Arms_of_the_United_Kingdom.svg/930px-Royal_Coat_of_Arms_of_the_United_Kingdom.svg.png",
+        "casa reale": "Windsor",
+        "consorte": "Fillipo di Edinburgo",
+        "madre": "Elizabeth Bowes-Lyon",
+        "resume": "Figlia maggiore del Duca di York, che in seguito diventerà re con il nome di Giorgio VI, e di sua moglie Elizabeth Bowes-Lyon, prima Duchessa di York e poi regina consorte, divenne erede al trono nel 1936, anno dell'abdicazione di suo zio Edoardo VIII. Dopo aver servito nella Auxiliary Territorial Service durante la Seconda guerra mondiale, nel 1947 sposa il Filippo di Edimburgo dal quale ha avuto quattro figli:Carlo, principe del Galles, Anna, principessa reale, Andrea, duca di York, ed Edoardo, conte di Wessex."
+      }
+    }
+  }
