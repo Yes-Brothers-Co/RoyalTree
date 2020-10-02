@@ -13,7 +13,7 @@ const App = () => {
     <>
      <View>
        <Text>
-        Elizabeth II
+          Roberto!
        </Text>
      </View>
     </>
