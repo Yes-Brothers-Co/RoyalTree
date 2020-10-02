@@ -8,13 +8,15 @@ import {
   StatusBar,
 } from 'react-native';
 
+import {Home} from "./Screens/home"
+
 const App = () => {
   return (
     <>
      <View>
-       <Text>
-        Elizabet II
-       </Text>
+
+       <Home>
+       </Home>
      </View>
     </>
   );
