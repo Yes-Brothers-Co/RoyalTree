@@ -8,14 +8,19 @@ import {
   StatusBar,
 } from 'react-native';
 
+import {
+
+  Profile
+} from './Screens/profile';
+
 const App = () => {
   return (
     <>
-     <View>
-       <Text>
-        Elizabet II
-       </Text>
-     </View>
+    <View>
+
+      <Profile id = "betta"></Profile>
+       
+    </View>
     </>
   );
 };
